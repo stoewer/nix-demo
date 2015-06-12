@@ -55,3 +55,9 @@ target/
 # Idea files
 .idea
 *.iml
+
+# Temporary files
+*~
+
+# Ipython notebook checkpoints
+.ipynb_checkpoints
